@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+div{
+    color: white;
+}
+.First{
+    position: static;
+    background-color: blueviolet;
+    width: 150px;
+    height: 100px;
+}
+
+.Second{
+    position: relative;
+    background-color: darkred;
+    width: 150px;
+    height: 100px;
+}
+.Third{
+    position: relative;
+    background-color: peru;
+    left: 30px;
+    bottom: 30px;
+    width: 150px;
+    height: 100px;
+}
+.Fourth{
+    position: relative;
+    background-color: indianred;
+    width: 600px;
+    height: 400px;
+}
+.Fifth{
+    position: absolute;
+    background-color: indigo;
+    top: 125px;
+    left: 300px;
+    width: 300px;
+    height: 200px;
+}
+.Sixth{
+    position: fixed;
+    background-color: forestgreen;
+    width: 100px;
+    height: 100px;
+    left: 95%;
+    top: 90%;
+}

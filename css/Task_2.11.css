@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+.Image{
+    float:right;
+}
+.Content{
+    background-color: aqua;
+    height: 267px;
+    border: 1px solid green;
+}

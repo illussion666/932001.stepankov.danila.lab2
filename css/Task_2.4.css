@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+div{
+    background-color: blue;
+    color: white;
+    width: 600px;
+    margin: 0 auto;
+}

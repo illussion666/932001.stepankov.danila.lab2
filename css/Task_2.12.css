@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.Text{
+    background-color: darkgrey;
+    display: inline-block;
+    width: 74.25%;
+    clear: both;
+}
+.Content{
+    background-color: aqua;
+    border: 1px solid green;
+}
+.Nav{
+    float: left;
+    display: inline-block;
+    background-color: bisque;
+    width: 25.25%;
+    margin-right: 5px;
+}

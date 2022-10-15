@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+div{
+    background-color: blue;
+    color: white;
+    width: 600px;
+    margin: 0 auto;
+}
+.Image{
+    float:right;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+.first{
+    background-color: green;
+    color: white;
+    width: 500px;
+    margin: 20px auto;
+}
+.second{
+    background-color: blue;
+    color: white;
+    width: 600px;
+    margin: 0  auto;
+    border: 20px dotted blue;
+    padding: 30px;
+}

@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+.Box{
+    background-color: aquamarine;
+    width: 200px;
+    height: 100px;
+    margin: 15px;
+    display: inline-block;
+}
+.Line{
+    clear: both;
+    background-color: bisque;
+}

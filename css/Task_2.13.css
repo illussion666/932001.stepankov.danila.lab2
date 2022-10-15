@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+img{
+    float:right;
+    width: 50%;
+    height: 50%;
+}
+.Text{
+    background-color: darkgrey;
+    display: inline-block;
+    width: 75%;
+
+}
+.Content{
+    background-color: aqua;
+    border: 1px solid green;
+}
+.Nav{
+    float: left;
+    background-color: bisque;
+    width: 25%;
+}
